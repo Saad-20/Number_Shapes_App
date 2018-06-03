@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NumberShapes</string>
+    <string name="app_number">APP NUMBER_R</string>
+    <string name="enter_any_number">ENTER ANY NUMBER</string>
+    <string name="click_me">CLICK ME</string>
+    <string name="app_number_R">APP NUMBER</string>
+</resources>
